@@ -4,7 +4,7 @@ Installation
 
 Clone this repo
 
-git clone https://github.com/okd-community-install/installcentos.git
+git clone https://github.com/subro88/OpenShiftInstall.git
 Execute the installation script
 cd installcentos
 ./install-openshift.sh
